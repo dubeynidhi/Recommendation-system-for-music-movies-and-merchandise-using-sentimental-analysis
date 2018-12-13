@@ -1,0 +1,8 @@
+1) Import all packages ( pandas, numpy, scipy, sklearn, csv, dask.dataframe, pickle, matplotlib.pyplot)
+2) Music_Recommendation_KNN_Itembased file cleans the data and run KNN on artist dataset.
+3) Music_Recoomendation_Kmeans_Userbased runs the code and stores the top 10 artists for each cluster. We can then give user Id as input to retrieve the top 10 artist for that particular cluster.
+4) FinalDataExploration is the data exploration and cleaning script.
+As the dataset is too big, all the data files are included in the Music Recommendation folder. Please download the dataset from the drive.
+https://drive.google.com/open?id=13dmKo7ALw5ipQQ7fxt-y-aftHViUHf-P
+
+
